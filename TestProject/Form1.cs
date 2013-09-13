@@ -41,5 +41,10 @@ namespace TestProject
         {
             MessageBox.Show("Hello World 5");
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello World 6");
+        }
     }
 }
